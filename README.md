@@ -1,5 +1,5 @@
-# Develop By : RAJKIRAN.J
-# Reg No : 212222043006
+# Develop By : Aadithyan R
+# Reg No : 212222230001
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
@@ -63,4 +63,4 @@ while True:
 ![7](https://github.com/Rajkiran276/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147471453/f81241dd-25e9-4f7f-b354-a32185513059)
 
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
-successfully created and executed.
+successfully created and executed..
